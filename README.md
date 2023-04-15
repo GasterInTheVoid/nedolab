@@ -1,2 +1,2 @@
 # nedolab
-My first sei-game
+My first semi working game
